@@ -12,23 +12,22 @@ This is an anonymous replication package for an MSc dissertation examining how s
 
 1. **School Cheating and Municipal Audit Data (Ajzenman 2021)**
    - Source: Ajzenman (2021) replication package
-   - Available at: [Insert Ajzenman (2021) replication package URL]
+   - Available at: https://www.openicpsr.org/openicpsr/project/118971/version/V1/view
    - Required files from the package:
      - School cheating rates data (2006-2013)
      - Municipal audit data from ASF (Auditoría Superior de la Federación)
-   - **Note**: These will be combined by the user to create `final_data.rds`
 
 2. **Prospera Beneficiaries Data (Arias et al. 2019)**
    - Source: Arias et al. (2019) replication package  
-   - Available at: [Insert Arias et al. (2019) replication package URL]
+   - Available at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8IWRBI
    - Required files:
      - Complete list of Prospera beneficiaries (2017)
    - **Note**: This data is used to construct the network measures
-   - Additional source: datos.gob.mx (for individual beneficiary lists if needed)
+   - Additional source: datos.gob.mx
 
 3. **Facebook Social Connectedness Index Data (Enríquez et al. 2024)**
    - Source: Enríquez et al. (2024) replication package
-   - Available at: [Insert Enríquez et al. (2024) replication package URL]
+   - Available at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4PSW76
    - Required files:
      - Facebook SCI data at municipality level
    - **Note**: Rename this file to `Enriquezetal2024.dta` after downloading
